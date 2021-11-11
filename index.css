@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: black;
+    
+}
+#h0{
+ margin: 30px;
+ background-color: white;
+ box-shadow: 0 0 10px black;
+ height: 800px;
+}
+p{
+    color: rgb(98, 214, 31);
+    padding: 40px;
+}
